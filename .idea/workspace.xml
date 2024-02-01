@@ -5,28 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4b8c88e-506f-43e9-b4da-fc49b56f8231" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/dto/HouseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/dto/LocationDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/general/Enum/EnumStatusHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/general/exception/AirBnbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/general/util/BooleanToStringConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/general/util/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/general/util/ResponseObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/model/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/model/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/respository/HouseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/respository/LocationRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/rest/HouseRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/service/HouseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/test/java/com/flypass/airbnb/service/HouseServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/rest/LocationRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/service/LocationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/airbnb/src/test/java/com/flypass/airbnb/service/LocationServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airbnb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/airbnb/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/AirbnbApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/AirbnbApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airbnb/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/airbnb/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from/airbnb/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from/airbnb/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from/airbnb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from/airbnb/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from/airbnb/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from/airbnb/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from/airbnb/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +52,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2blipczeM1a3iVJoHGj6yslz0lX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,6 +78,8 @@
       <recent name="com.flypass.airbnb.service" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.flypass.airbnb.service" />
+      <recent name="com.flypass.airbnb.rest" />
       <recent name="com.flypass.airbnb.general.util" />
       <recent name="com.flypass.airbnb.dto" />
       <recent name="com.flypass.airbnb.respository" />
@@ -97,20 +90,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in airbnbTest">
-    <configuration name="AirbnbApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.flypass.airbnb.AirbnbApplication" />
-      <module name="airbnb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.flypass.airbnb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LocationServiceTest.QueryOK">
     <configuration name="All in airbnbTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="airbnbTest" />
       <option name="PACKAGE_NAME" value="" />
@@ -166,13 +146,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LocationServiceTest.QueryOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="airbnb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flypass.airbnb.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flypass.airbnb.service" />
+      <option name="MAIN_CLASS_NAME" value="com.flypass.airbnb.service.LocationServiceTest" />
+      <option name="METHOD_NAME" value="QueryOK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LocationServiceTest.QueryOK" />
         <item itemvalue="JUnit.All in airbnbTest" />
         <item itemvalue="JUnit.HouseServiceTest" />
         <item itemvalue="JUnit.HouseServiceTest.QueryEmpty" />
         <item itemvalue="JUnit.HouseServiceTest.QueryOK" />
-        <item itemvalue="Application.AirbnbApplication" />
       </list>
     </recent_temporary>
   </component>

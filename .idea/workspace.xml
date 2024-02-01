@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4b8c88e-506f-43e9-b4da-fc49b56f8231" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/rest/LocationRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/service/LocationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb/src/test/java/com/flypass/airbnb/service/LocationServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/AirbnbApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/airbnb/src/main/java/com/flypass/airbnb/AirbnbApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from/airbnb" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/from/airbnb/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/from/airbnb/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/from/airbnb/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/from/airbnb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/from/airbnb/package.json" afterDir="false" />
